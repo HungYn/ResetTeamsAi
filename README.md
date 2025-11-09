@@ -31,6 +31,6 @@
 
 ```plaintext
 ├── README.md
-├── ResetTeamsAi   # C# Windows Forms 
-└── ResetTeamsAi.zip                 # 執行程式
+├── ResetTeamsAi       # C# Windows Forms 
+└── ResetTeamsAi.zip   # 執行程式
 

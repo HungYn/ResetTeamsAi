@@ -31,6 +31,6 @@
 
 ```plaintext
 ├── README.md
-├── clear_teams_cache.bat   # 主清除腳本
-├── assets/                 # 圖示與簡報素材
-└── docs/                   # 使用說明與流程文件
+├── ResetTeamsAi   # C# Windows Forms 
+└── ResetTeamsAi.zip                 # 執行程式
+

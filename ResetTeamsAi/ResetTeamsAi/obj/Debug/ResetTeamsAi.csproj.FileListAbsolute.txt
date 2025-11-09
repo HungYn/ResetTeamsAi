@@ -1,0 +1,12 @@
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.csproj.AssemblyReference.cache
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.Properties.Resources.resources
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.csproj.GenerateResource.cache
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.csproj.CoreCompileInputs.cache
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\bin\Debug\ResetTeamsAi.exe.config
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\bin\Debug\ResetTeamsAi.exe
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\bin\Debug\ResetTeamsAi.pdb
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.exe
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.pdb
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\ResetTeamsAi.exe.config
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\UiHelpers.resources
+D:\wm\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\ResetTeamsAi\ResetTeamsAi\obj\Debug\Form1.resources
